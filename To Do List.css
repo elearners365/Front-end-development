@@ -1,0 +1,57 @@
+
+*
+{
+    
+    padding: 5px;
+}
+body {font-family: Arial, Helvetica, sans-serif;
+  background-image: url(wave1.png), url(pens1.svg);
+  background-position: left, right;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover 30% 200px 100px; 
+  background-attachment: fixed;
+}
+
+h2{
+  color: #00BFA6;
+  font-weight: 500;
+}
+input{
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 10;
+  display: inline-flex;
+  border: 1px solid #00BFA6;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+button {
+  background-color: rgb(211, 211, 211);
+  color: white;
+  padding: 12px 12px;
+  border: 0.2px solid #00BFA6;
+  cursor: pointer;
+  width: 15px 15px;
+  color: #00BFA6;
+  font-size: 15px;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+
+
+.container {
+  padding: 10px;
+}
+.paragraph-styling{
+  cursor: pointer;
+  color: white;
+}
+
+
+
+
+
